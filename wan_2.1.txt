@@ -1,0 +1,8 @@
+
+## Wan 2.1 - Image to Video && Text to Video
+### Clip Vision: 
+clip_vision_h
+
+### Diffusion Model:
+wan2.1_i2v_720_14B_bf16
+wan2.1_t2v_14B_bf16
